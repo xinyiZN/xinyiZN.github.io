@@ -1,6 +1,5 @@
 
 name: Deploy Next.js site to Pages
-
 on:
   # Runs on pushes targeting the default branch 从默认分支拉取代码
   push:
