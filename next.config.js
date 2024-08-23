@@ -1,6 +1,6 @@
-const withNextra = require('nextra')({
-  theme: 'nextra-theme-docs',
-  themeConfig: './theme.config.tsx',
+const withNextra = require("nextra")({
+  theme: "nextra-theme-docs",
+  themeConfig: "./theme.config.tsx",
   // 给文档中的代码块添加 copy 能力
   defaultShowCopyCode: true,
   // 支持 latex
@@ -8,5 +8,7 @@ const withNextra = require('nextra')({
   // 支持静态图片
   staticImage: true,
 })
-
-module.exports = withNextra()
+const nextConfig = {
+  distDir: "build", //this line will tell the build to create a file with this name
+}
+module.exports = withNextra(nextConfig)

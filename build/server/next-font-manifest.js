@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{"/about":[],"/blog/advanced":[],"/blog/advanced/satori":[],"/":[]},"app":{},"appUsingSizeAdjust":false,"pagesUsingSizeAdjust":false}';
