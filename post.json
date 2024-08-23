@@ -3,22 +3,22 @@
     {
       "slug": "/blog/next",
       "date": "2024-8-23",
-      "title": "NextJS学习"
+      "title": "NextJS"
     },
     {
       "slug": "/blog/node",
       "date": "2024-8-23",
-      "title": "Node学习"
+      "title": "Node"
     },
     {
       "slug": "/blog/react",
       "date": "2024-8-23",
-      "title": "React框架学习"
+      "title": "React"
     },
     {
       "slug": "/blog/vue",
       "date": "2024-8-23",
-      "title": "Vue学习"
+      "title": "Vue"
     }
   ]
 }

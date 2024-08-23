@@ -29,6 +29,7 @@ const config: DocsThemeConfig = {
               alignItems: "center",
               fontWeight: "bold",
               color: "#1a73e8",
+              fontSize: "20px",
             }}
           >
             🚀 {title}
@@ -44,6 +45,7 @@ const config: DocsThemeConfig = {
               alignItems: "center",
               fontStyle: "italic",
               color: "#42b883",
+              fontSize: "20px",
             }}
           >
             📝 {title}
@@ -58,6 +60,7 @@ const config: DocsThemeConfig = {
               display: "flex",
               alignItems: "center",
               color: "#61dafb",
+              fontSize: "20px",
             }}
           >
             ⚛️ {title}
@@ -72,6 +75,7 @@ const config: DocsThemeConfig = {
               display: "flex",
               alignItems: "center",
               color: "#68a063",
+              fontSize: "20px",
             }}
           >
             🧷 {title}
@@ -169,7 +173,6 @@ const config: DocsThemeConfig = {
     )
   },
   search: { placeholder: "" },
-
 }
 
 export default config

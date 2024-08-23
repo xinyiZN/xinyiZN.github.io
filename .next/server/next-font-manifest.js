@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{"/about":[],"/blog/advanced/satori":[],"/blog/advanced":[],"/blog/next":[],"/blog/next/nextra":[],"/blog/node/node":[],"/blog/react":[],"/blog/react/react1":[],"/blog/node":[],"/blog/vue":[],"/":[],"/blog/vue/test":[]},"app":{},"appUsingSizeAdjust":false,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST="{\"pages\":{\"/\":[],\"/about\":[]},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
