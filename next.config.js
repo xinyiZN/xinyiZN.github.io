@@ -9,6 +9,7 @@ const withNextra = require("nextra")({
   staticImage: true,
 })
 const nextConfig = {
+  images: { unoptimized: true },
   output: "export", // 这里是添加的配置代码
 }
 module.exports = withNextra(nextConfig)
