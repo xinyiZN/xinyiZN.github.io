@@ -8,7 +8,6 @@ on:
   # Runs on pushes targeting the default branch 从默认分支拉取代码
   push:
     branches: ["main"]
-
   # Allows you to run this workflow manually from the Actions tab 允许从"操作"选项卡手动运行此工作流
   workflow_dispatch:
 
